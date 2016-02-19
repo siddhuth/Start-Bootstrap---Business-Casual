@@ -144,7 +144,7 @@ DOCTYPE html>
                         <strong>Real Life</strong>
                     </h2>
                     <hr>
-                    <p>Shots from the latest and most recent pursuits/p>
+                    <p>Shots from the latest and most recent pursuits</p>
                     <p>Always on a quest to inspire and be inspired.</p>
                 </div>
             </div>
