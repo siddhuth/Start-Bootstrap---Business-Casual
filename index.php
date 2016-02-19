@@ -9,7 +9,7 @@ DOCTYPE html>
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Business Casual - Start Bootstrap Theme</title>
+    <title>Siddharth Thiruvalluvan</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,8 +32,8 @@ DOCTYPE html>
 
 <body>
 
-    <div class="brand">Business Casual</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="brand">Siddharth Thiruvalluvan</div>
+    <div class="address-bar">28 Central Avenue | Newark, NJ 07160 | 908.279.5055</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -47,7 +47,7 @@ DOCTYPE html>
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">Business Casual</a>
+                <a class="navbar-brand" href="index.html">Siddharth Thiruvalluvan</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -108,11 +108,11 @@ DOCTYPE html>
                     <h2 class="brand-before">
                         <small>Welcome to</small>
                     </h2>
-                    <h1 class="brand-name">Business Casual</h1>
+                    <h1 class="brand-name">My Professional Space</h1>
                     <hr class="tagline-divider">
                     <h2>
                         <small>By
-                            <strong>Start Bootstrap</strong>
+                            <strong>Siddharth Thiruvalluvan</strong>
                         </small>
                     </h2>
                 </div>
@@ -123,15 +123,15 @@ DOCTYPE html>
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Build a website
-                        <strong>worth visiting</strong>
+                    <h2 class="intro-text text-center">Living a life
+                        <strong>full of adventure</strong>
                     </h2>
                     <hr>
                     <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">
                     <hr class="visible-xs">
-                    <p>The boxes used in this template are nested inbetween a normal Bootstrap row and the start of your column layout. The boxes will be full-width boxes, so if you want to make them smaller then you will need to customize.</p>
-                    <p>A huge thanks to <a href="http://join.deathtothestockphoto.com/" target="_blank">Death to the Stock Photo</a> for allowing us to use the beautiful photos that make this template really come to life. When using this template, make sure your photos are decent. Also make sure that the file size on your photos is kept to a minumum to keep load times to a minimum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                    <p>Just your current college student, with a passion for learning, exploring and constantly building upon my professional network. I believe life is all about learning wether it be in academics, social life, traveling experiences, self-awareness, all in order to develop sophisticated persona and drive for success. </p>
+                    <p>A link to my linkedin profile <a href="https://www.linkedin.com/in/siddacious" target="_blank">Sidd Linkedin</a> for further information about my professional interests!</p>
+                    <p>I would like to express my many interests and passion here with the wide options in design and functionality. You can depict information as basic as IG post, FB page, but a website can portray many more different angles.</p>
                 </div>
             </div>
         </div>
@@ -140,12 +140,12 @@ DOCTYPE html>
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Beautiful boxes
-                        <strong>to showcase your content</strong>
+                    <h2 class="intro-text text-center">Real-time
+                        <strong>Real Life</strong>
                     </h2>
                     <hr>
-                    <p>Use as many boxes as you like, and put anything you want in them! They are great for just about anything, the sky's the limit!</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                    <p>Shots from the latest and most recent pursuits/p>
+                    <p>Always on a quest to inspire and be inspired.</p>
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@ DOCTYPE html>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <p>Copyright &copy; Siddacious 2015</p>
                 </div>
             </div>
         </div>
