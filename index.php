@@ -87,13 +87,13 @@ DOCTYPE html>
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="img-responsive img-full" src="img/slide-3.jpg" alt="">
+                                <img class="img-responsive img-responsive" src="img/slide-3.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-2.jpg" alt="">
+                                <img class="img-responsive img-responsive" src="img/slide-2.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/intro-pict.jpg" alt="">
+                                <img class="img-responsive img-responsive" src="img/intro-pict.jpg" alt="">
                             </div>
                         </div>
 
